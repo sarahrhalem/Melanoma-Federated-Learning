@@ -14,22 +14,5 @@ Objective 3: Exploration of data distribution assumptions and novel application 
 6.	FL_Melanoma_obj3  FedAdam and FedProx non iid testing 1
 7.	FL_Melanoma_obj3  FedProx real case scenario split
 
-The above notebooks use the following modules we implemented from scratch as the code behind our project. These modules are imported by the Import packages and modules script in the notebooks:
--	FedAvg
--	FLAdjustment
--	FLScenario
--	FLTrainVal
--	FLutils
--	FLWorker
--	FocalLoss
--	MelanomaDataset
--	MelanomaEfficientNet
--	Plot
--	ResizeImages
--	Test
--	TrainVal
--	utils
--	Visualise
-Data
 Source data can be downloaded from the link below, note we only use the training JPEG data:
 -	https://challenge2020.isic-archive.com/
